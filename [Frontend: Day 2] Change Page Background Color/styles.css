@@ -1,0 +1,15 @@
+.div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+button {
+    height: 32px;
+    width: 80px;
+    background-color: rgb(218, 211, 211);
+    border-radius: 4px;
+    background-color: aquamarine;
+    margin: 8px;
+}
